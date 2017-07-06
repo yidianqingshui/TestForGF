@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/test/js/tinytable.js,WebRoot/test/js/jquery-1.7.min.js
+validator.Unchecked=
